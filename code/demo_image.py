@@ -9,7 +9,7 @@ import math
 import random
 import time
 import os
-#import htmltool
+import htmltool
 from pytesseract import *
 from PIL import Image
 from PIL import ImageEnhance
