@@ -1,4 +1,3 @@
-# image_tesseract_private
+## Python3 Base
 
-you must hurry up
-hold in coding
+[![Build Status](http://drone.sportingcool.com/api/badges/Docker/python3/status.svg)](http://drone.sportingcool.com/Docker/python3)
